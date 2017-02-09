@@ -1,0 +1,21 @@
+
+address = azepeda2@cs.usfca.edu
+name = Alejandro Zepeda
+major = Computer Science
+school = USF
+amount = 30000
+signature = Sami Rollins
+
+address = zepedaalex25@gmail.com
+name = Jane Doe
+major = Computer Science
+school = UCSB
+amount = 15000
+signature = Sami Rollins
+
+address = test@usfca.edu
+name = Sally Sue
+major = History
+school = Mills
+amount = 32000
+signature = Sami Rollins

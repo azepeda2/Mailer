@@ -1,0 +1,9 @@
+
+Dear $name,
+
+I am writing to encourage you to study $major.  $school has an excellent program in this field, and only costs $amount per year - not too much money.  Please consider joining our department!
+
+Regards,
+
+$signature, PhD
+Professor
